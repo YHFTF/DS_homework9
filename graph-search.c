@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #define TRUE 1
 #define FALSE 0
-#define MAX_VERTEX_SIZE 10
+#define MAX_VERTEX_SIZE 10 //정점의 최대 개수를 10으로 설정한다.
 
 typedef struct graphNode{
     int vertex;
